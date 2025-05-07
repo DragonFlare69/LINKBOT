@@ -22,8 +22,8 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "7813275212:AAEBNSnVpcJjqYyZsCoVF46fsT7CcSrNUhU"
-ADMIN_ID = 7386570615 
+TOKEN = "7949540768:AAETDVvHgOHZiNpan_jJAvRB9NsB-u3256k"
+ADMIN_ID = 6366135368 
 
 DATA_FILE = "data.json"
 MAX_CHANNELS = 200
